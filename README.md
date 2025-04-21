@@ -29,6 +29,7 @@ Ajudar produtores a monitorar condições do solo e tomar decisões com base em 
 
 - `farmtech_database.dmd`: arquivo do SQL Developer Data Modeler
 - `DER.png`: imagem do DER
+- `MAPA_LOGICO.png`: imagem do Mapa Lógico
 - `README.md`: este documento
 
 ## Autor
